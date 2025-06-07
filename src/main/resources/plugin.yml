@@ -1,0 +1,6 @@
+name: ServerPerformance
+version: '2.8'
+main: org.example.com.serverPerformance.ServerPerformance
+api-version: '1.21'
+commands:
+ setPerformance:
